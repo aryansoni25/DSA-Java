@@ -235,4 +235,4 @@ These mathematical concepts are useful in many DSA problems.
 - **Permutations and combinations** → counting and combinatorial problems
 
 Understanding these mathematical concepts can make it easier to analyze
-problems and design efficient algorithms.
+problems and design efficient algorithms .
